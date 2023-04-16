@@ -1,4 +1,4 @@
-# Black Proton Theme for Firefox
+# Black  Theme for Firefox
 ![](https://imgur.com/7OFEZcL.png)
  
 - First of all go to firefox and go to `about:config`
