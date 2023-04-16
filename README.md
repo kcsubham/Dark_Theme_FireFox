@@ -30,4 +30,4 @@
 - Now simply restart the firefox and enjoy
 
 # This is a modification over [Neikon/Almost-Dark-Grey-Colorfull-Proton---FirefoxCSS-Themes](https://github.com/Neikon/Almost-Dark-Grey-Colorfull-Proton---FirefoxCSS-Themes)
-# So all the credits goes to [Neikon](https://github.com/Neikon), [Cristian Dragos](https://github.com/CristianDragos/FirefoxThemes), [datguypiko](https://github.com/datguypiko/Firefox-Mod-Blur)
+# So all the credits goes to [Neikon](https://github.com/Neikon), [Eidoron1](https://github.com/Eidoron1)
