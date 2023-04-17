@@ -1,33 +1,25 @@
-# Black  Theme for Firefox
+### Black Proton Theme for Firefox
+
 ![](https://imgur.com/7OFEZcL.png)
- 
-- First of all go to firefox and go to `about:config`
-- It will show a warning dialogue like the image below:
-![](https://imgur.com/undefined.png)
-- You can simply ignore it and click on accept the risk and continue
-- Now search for `toolkit.legacyUserProfileCustomizations.stylesheets`
-- By default it is false, double click it to set it to `true`
 
-# Download
 
-- Download the zip file 
 
-![](https://imgur.com/OpnMBtT.png)
 
-- Extract it to your local folder
-- Once its extracted, except for the README file copy everything into one folder and name it `chrome`
-- Copy the `chrome` folder 
+ ###Instructions
 
-# Installation
+    Open Firefox and go to about:config
+    A warning message will appear, click on "Accept the Risk and Continue"
+    Search for toolkit.legacyUserProfileCustomizations.stylesheets
+    Double click on it to set its value to true
+    Download the zip file from here
+    Extract the zip file to your local folder
+    Open the extracted folder and copy everything except the README file into a new folder named chrome
+    Open a new Firefox tab and go to about:profiles
+    Find your profile and note down the root folder path
+    Navigate to the root folder path and paste the chrome folder that you copied
+    Restart Firefox and enjoy the Black Proton Theme
 
-- Now open a new firefox tab and search for `about:profiles`
-- It will show your profiles like in the image below:
+### Credits
 
-![](https://imgur.com/fKoJwdG.png)
-
-- Since I am using a release build, I can get the folder path in `Profile:default-release`
-- Locate your root folder and go to that folder, and in that folder paster the `chrome` folder that you copied
-- Now simply restart the firefox and enjoy
-
-# This is a modification over [Neikon/Almost-Dark-Grey-Colorfull-Proton---FirefoxCSS-Themes](https://github.com/Neikon/Almost-Dark-Grey-Colorfull-Proton---FirefoxCSS-Themes)
-# So all the credits goes to [Neikon](https://github.com/Neikon), [Eidoron1](https://github.com/Eidoron1)
+This theme is a modification of Neikon/Almost-Dark-Grey-Colorfull-Proton---FirefoxCSS-Themes.
+All credits go to Neikon, Cristian Dragos, datguypiko
