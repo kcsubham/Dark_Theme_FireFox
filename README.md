@@ -20,5 +20,5 @@
 
 ### Credits
 
-This theme is a modification of Neikon/Almost-Dark-Grey-Colorfull-Proton---FirefoxCSS-Themes.
-All credits go to Neikon, Eidoron1
+### This theme is a modification of Neikon/Almost-Dark-Grey-Colorfull-Proton---FirefoxCSS-Themes.
+### All credits go to Neikon, Eidoron1
